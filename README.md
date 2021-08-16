@@ -1,2 +1,2 @@
 # fileManagerAndAVPlayer
-this is 3 in one anroid app with file Manger with full simple and essential video and audio player facilities.
+This is 3 in one android app with file manager with full simple and essential video and audio player facilities.
